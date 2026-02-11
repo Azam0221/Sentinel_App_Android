@@ -9,3 +9,17 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+
+val SentinelBlack = Color(0xFF121212)
+val SentinelDarkGray = Color(0xFF1E1E1E)
+val SentinelSurface = Color(0xFF2C2C2C)
+
+
+val SentinelRed = Color(0xFFFF5252)
+val SentinelGreen = Color(0xFF69F0AE)
+val SentinelYellow = Color(0xFFFFD740)
+
+
+val TextWhite = Color(0xFFFFFFFF)
+val TextGray = Color(0xFFAAAAAA)
