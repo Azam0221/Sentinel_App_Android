@@ -6,9 +6,12 @@ Most importantly, it houses the **Biometric Kill Switch**—a hardware-secured s
 
 ## Key Features
 
-* **🛡️ Biometric Kill Switch:** Leverages the device's hardware security (Fingerprint/FaceID) to authorize the termination of a rogue agent. One tap + One scan = Total Network Lockdown.
-* **💻 The "Matrix" Terminal:** Watch your AI Agents "think" in real-time. Streams live execution logs from the Python Bridge with a hacker-style green-on-black UI.
-* **🔔 Permission Dashboard:** Receive alerts when an agent requests access to production (e.g., "Deploy to Prod"). Approve or Deny with a single tap.
+* ** Biometric Kill Switch:** Leverages the device's hardware security (Fingerprint/FaceID) to authorize the termination of a rogue agent. One tap + One scan = Total Network Lockdown.
+* 
+* ** The "Matrix" Terminal:** Watch your AI Agents "think" in real-time. Streams live execution logs from the Python Bridge with a hacker-style green-on-black UI.
+* 
+* ** Permission Dashboard:** Receive alerts when an agent requests access to production (e.g., "Deploy to Prod"). Approve or Deny with a single tap.
+* 
 * **Fleet Overview:** Monitor the health and status of all active AI agents in your infrastructure.
 
 ## Tech Stack
